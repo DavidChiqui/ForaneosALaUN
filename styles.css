@@ -1,3 +1,7 @@
-body{
+*body{
     color :aliceblue;
+}
+
+.corp {
+    color : blue;
 }
