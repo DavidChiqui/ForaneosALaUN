@@ -1,0 +1,255 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 5vh;
+    margin: 0;
+    height: 100%;
+    background: rgb(176, 193, 228);
+    text-align: center;
+
+}
+
+header {
+    top: 0;
+    background: rgb(9, 0, 92);
+    display: block;
+    width: 100%;
+    height: 5vh;
+    position: fixed;
+
+
+
+}
+
+header nav ul {
+    float: left;
+}
+
+header nav ul li {
+    display: inline-flex;
+
+}
+
+header nav ul li a {
+    margin-top: 15px;
+    color: rgb(221, 221, 221);
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: rgb(37, 114, 231);
+    height: 100%;
+    width: 100px;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+header nav ul li a:hover {
+    color: rgb(241, 252, 255);
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: rgb(25, 55, 100);
+    transition: all 0.5s;
+
+}
+
+header .pep a {
+
+    text-decoration: none;
+    float: right;
+    margin: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+    height: 100%;
+    width: 200px;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.login {
+    background-color: rgb(24, 67, 133);
+    color: rgb(255, 255, 255);
+    transition: all 0.5s;
+}
+
+.singup {
+    background-color: rgb(154, 252, 230);
+    color: rgb(70, 70, 70);
+    transition: all 0.5s;
+}
+
+.login:hover {
+    background-color: rgb(152, 192, 255);
+    color: rgb(46, 46, 46);
+    transition: all 0.3s;
+    border-radius: 10px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.singup:hover {
+    background-color: rgb(12, 77, 116);
+    color: rgb(255, 255, 255);
+    transition: all 0.3s;
+    border-radius: 10px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+
+.contenedor {
+    /* min-height: 100vh; */
+    height: 100%;
+    width: 80%;
+    background-color: aliceblue;
+    padding: 30px;
+
+}
+
+.note {
+    background-color: rgb(192, 224, 240);
+    border-radius: 40px;
+    columns: 2;
+    display: inline-flex;
+    margin: auto;
+    padding: 5px;
+
+
+}
+
+.pMayor {
+    font-size: 100px;
+    color: white;
+    width: 30%;
+    text-align: center;
+}
+
+.pMenor {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.blocks {
+    margin-top: 20PX;
+    display: grid;
+    /* background-color: rgb(141, 141, 141); */
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+
+.min-block {
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(81, 144, 216);
+    border-radius: 40px;
+    text-decoration: none;
+    box-shadow: 10px 10px 20px 0px #000000;
+    transition: all 0.5s;
+}
+
+
+.min-block h3 {
+    color: aliceblue;
+}
+
+.min-block div {
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(89, 0, 255, 0.24) 100%), url(bgHeart.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 5px;
+    border-radius: 40px;
+    height: 200px;
+}
+
+
+
+.min-block:hover {
+    padding: 2%;
+    background-color: rgb(17, 0, 80);
+    box-shadow: 10px 10px 20px 0px #3b3941;
+    transition: all 0.5s ease-in-out;
+}
+
+/* .blocks .min-block .content :hover{
+    height: 200px;
+    background-color: aqua;
+} */
+
+
+/* Estilos para el contenedor principal */
+
+
+#footer {
+    display: table;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(14, 14, 19);
+    color: #fff;
+    text-align: center;
+    position: relative;
+}
+
+
+/*_________________________________________MAPA___________________________________________________*/
+
+.point-map {
+    position: absolute;
+    background-color: rgb(55, 89, 160);
+    cursor: pointer;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+
+
+}
+
+.cont-point {
+    border-radius: 5px;
+    align-items: center;
+    font-size: 0.2px;
+    color: #ffffff;
+    background-color: rgba(29, 30, 59, 0.692);
+    width: 2px;
+    position: relative;
+    visibility: hidden;
+    border: #0d0030 solid 3px;
+    transition: all 0.5s;
+
+}
+
+.point-map:hover .cont-point {
+    visibility: visible;
+    font-size: 10px;
+    color: #ffffff;
+    /* background-color: rgba(29, 30, 59, 0.692);
+    top: -70PX;
+    right: 90PX; */
+    width: 200px;
+    border: #0d0030 solid 3px;
+    transition: all 0.5s;
+
+
+
+}
+
+.text-info{
+    position: absolute;
+    background-color: #1d0738b8;
+    color: #fff;
+}
+
+.contenedor svg #bloques image:hover {
+    cursor: pointer;
+    
+
+}
