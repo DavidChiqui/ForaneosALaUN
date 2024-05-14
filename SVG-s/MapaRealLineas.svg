@@ -1,0 +1,45 @@
+<svg id="Lineas" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #686667;
+        fill-rule: evenodd;
+        opacity: 0.38;
+      }
+    </style>
+  </defs>
+  <path id="Línea_2" data-name="Línea 2" class="cls-1" d="M111-28h3V1020h-3V-28Z"/>
+  <path id="Línea_2-2" data-name="Línea 2" class="cls-1" d="M167.078-13.356h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-3" data-name="Línea 2" class="cls-1" d="M224.37-35.266h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-4" data-name="Línea 2" class="cls-1" d="M280.449-20.622h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-5" data-name="Línea 2" class="cls-1" d="M339-20h3V1028h-3V-20Z"/>
+  <path id="Línea_2-6" data-name="Línea 2" class="cls-1" d="M395.078-5.356h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-7" data-name="Línea 2" class="cls-1" d="M452.37-27.266h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-8" data-name="Línea 2" class="cls-1" d="M508.449-12.622h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-9" data-name="Línea 2" class="cls-1" d="M565.134-28.493h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-10" data-name="Línea 2" class="cls-1" d="M621.212-13.849h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-11" data-name="Línea 2" class="cls-1" d="M678.5-35.759h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-12" data-name="Línea 2" class="cls-1" d="M734.583-21.116h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-13" data-name="Línea 2" class="cls-1" d="M793.134-20.493h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-14" data-name="Línea 2" class="cls-1" d="M849.212-5.849h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-15" data-name="Línea 2" class="cls-1" d="M906.5-27.759h3v1048h-3v-1048Z"/>
+  <path id="Línea_2-16" data-name="Línea 2" class="cls-1" d="M962.583-13.116h3v1048h-3v-1048Z"/>
+  <path id="Línea_3" data-name="Línea 3" class="cls-1" d="M55-14h3V1020H55V-14Z"/>
+  <path id="Línea_4" data-name="Línea 4" class="cls-1" d="M0,965v-3H1006v3H0Z"/>
+  <path id="Línea_5" data-name="Línea 5" class="cls-1" d="M1006,905v3H-14v-3H1006Z"/>
+  <path id="Línea_6" data-name="Línea 6" class="cls-1" d="M0,851v-3H1006v3H0Z"/>
+  <path id="Línea_7" data-name="Línea 7" class="cls-1" d="M1006,792v3H0v-3H1006Z"/>
+  <path id="Línea_8" data-name="Línea 8" class="cls-1" d="M0,738v-3H1006v3H0Z"/>
+  <path id="Línea_9" data-name="Línea 9" class="cls-1" d="M1006,678v3H-14v-3H1006Z"/>
+  <path id="Línea_10" data-name="Línea 10" class="cls-1" d="M0,625v-3H1006v3H0Z"/>
+  <path id="Línea_11" data-name="Línea 11" class="cls-1" d="M1006,565v3H-14v-3H1006Z"/>
+  <path id="Línea_12" data-name="Línea 12" class="cls-1" d="M-14,511v-3H1006v3H-14Z"/>
+  <path id="Línea_13" data-name="Línea 13" class="cls-1" d="M1006,452v3H-14v-3H1006Z"/>
+  <path id="Línea_14" data-name="Línea 14" class="cls-1" d="M-14,398v-3H1020v3H-14Z"/>
+  <path id="Línea_15" data-name="Línea 15" class="cls-1" d="M1006,338v3H-14v-3H1006Z"/>
+  <path id="Línea_16" data-name="Línea 16" class="cls-1" d="M-14,284v-3H1006v3H-14Z"/>
+  <path id="Línea_17" data-name="Línea 17" class="cls-1" d="M1006,225v3H-14v-3H1006Z"/>
+  <path id="Línea_18" data-name="Línea 18" class="cls-1" d="M0,171v-3H1006v3H0Z"/>
+  <path id="Línea_19" data-name="Línea 19" class="cls-1" d="M1006,111v3H0v-3H1006Z"/>
+  <path id="Línea_20" data-name="Línea 20" class="cls-1" d="M0,58V55H1006v3H0Z"/>
+</svg>
